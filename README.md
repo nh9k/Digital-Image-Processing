@@ -234,7 +234,8 @@ but upload the correct code
 - Exercise 1: Object Detection
 <img src="https://user-images.githubusercontent.com/56310078/76191922-cbc0a980-6223-11ea-906b-5594d7b2dd27.png" width="300" height="300">
 
-- Exercise 2: Regression, Estimating real number given vector data
+- Exercise 2: Regression  
+Estimating real number given vector data
 <img src="https://user-images.githubusercontent.com/56310078/76192039-2a862300-6224-11ea-8429-2c5fd567ab5f.png" width="300" height="300">
 
 - Exercise 3: Transfer Learning using Alexnet  

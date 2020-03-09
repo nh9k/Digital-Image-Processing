@@ -19,7 +19,7 @@ all of index have matlab code but some index have no result
 [6.1. Aliasing in Image Resizing](#61-aliasing-in-image-resizing)  
 [6.2 2-D DFT Fourier Spectrum](#62-2d-dft-fourier-spectrum)  
 [6.3 Phase Angles and The Reconstructed](#63-phase-angles-and-the-reconstructed)    
-6.4. Frequency Analysis 
+6.4. Frequency Analysis  
 [6.5. Steps for Filtering in the Frequency Domain](#65-steps-for-filtering-in-the-frequency-domain)  
 6.6. Image Low Pass Filter & High Pass Filter  
 [7. Deep learning](#7-deep-learning)  
